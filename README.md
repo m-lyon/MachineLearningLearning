@@ -1,5 +1,5 @@
 # Machine-Learning Learning
-A collection of Jupyter Notebooks detailing machine learning models I have worked on.
+A collection of Machine Learning models written in Jupyter Notebooks.
 
 - Linear Regression
 - Logistic Regression
